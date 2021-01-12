@@ -1,2 +1,2 @@
-# Git_Test
-Testing out pushing Git repositories to GitHub
+# Repository for Springboard Course
+A repository for all my Springobard course material. 
